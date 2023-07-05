@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
- - This program is an offline recreation of NYTimes' [Wordle](https://www.nytimes.com/games/wordle/index.html)
+ - This program is an offline recreation of NYTimes' [Wordle](https://www.nytimes.com/games/wordle/index.html).
  - The application randomly selects a word from a provided .txt dictionary and gives users 6 attempts to guess the 5 letter word, displaying color coded feedback based on the correct/incorrect letter placement within each guess.
 
 
