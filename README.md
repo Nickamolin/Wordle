@@ -2,22 +2,25 @@
 
 <h2>Description</h2>
 
- - Designed and programmed a client-side version of Wordle using Java and FXML
- - Application randomly selected a word from a provided .txt dictionary and gave users 6 attempts to guess the 5 letter word, displaying color coded feedback based on the correct/incorrect letter placement within each guess
+ - This program is a recreation of NYTimes' [Wordle](https://www.nytimes.com/games/wordle/index.html)
+ - The application randomly selects a word from a provided .txt dictionary and gives users 6 attempts to guess the 5 letter word, displaying color coded feedback based on the correct/incorrect letter placement within each guess.
 
 
 <h2>Languages Used</h2>
 
 - <b>Java</b> 
-- <b>More</b>
+- <b>FXML</b>
 
-<h2>Environments Used </h2>
+<h2>Environments Used</h2>
 
-- <b>IntelliJ</b>
+- <b>IntelliJ IDEA</b>
 
 <h2>Dependencies</h2>
 
-- <b>huh</b>
+- <b>JavaFX</b>
+- <b>Gradle</b>
+- <b>Mockito</b>
+- <b>JUnit Jupiter</b>
 
 <h2>Program Walk-Through:</h2>
 
